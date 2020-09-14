@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 | Academic</title>
-    <link>/publication-type/3/</link>
-      <atom:link href="/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <title>3 | Gregor von Schweinitz</title>
+    <link>https://gvschweinitz.org/publication-type/3/</link>
+      <atom:link href="https://gvschweinitz.org/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://gvschweinitz.org/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>3</title>
-      <link>/publication-type/3/</link>
+      <link>https://gvschweinitz.org/publication-type/3/</link>
     </image>
     
     <item>
       <title>Why they keep missing: An empirical investigation of sovereign bond ratings and their timing</title>
-      <link>/publication/whytheykeepmissing/</link>
+      <link>https://gvschweinitz.org/publication/whytheykeepmissing/</link>
       <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/whytheykeepmissing/</guid>
+      <guid>https://gvschweinitz.org/publication/whytheykeepmissing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fiscal policy and fiscal fragility: Empirical evidence from the OECD</title>
-      <link>/publication/fiscalfragility_jimf/</link>
+      <link>https://gvschweinitz.org/publication/fiscalfragility_jimf/</link>
       <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/fiscalfragility_jimf/</guid>
+      <guid>https://gvschweinitz.org/publication/fiscalfragility_jimf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flight Patterns and Yields of European Government Bonds</title>
-      <link>/publication/flightpatterns/</link>
+      <link>https://gvschweinitz.org/publication/flightpatterns/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/flightpatterns/</guid>
+      <guid>https://gvschweinitz.org/publication/flightpatterns/</guid>
       <description></description>
     </item>
     
