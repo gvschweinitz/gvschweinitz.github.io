@@ -3,22 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gvschweinitz.org/publication-type/2/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gvschweinitz.org/authors/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gvschweinitz.org/publication/fiscalfragility_jimf/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gvschweinitz.org/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gvschweinitz.org/author/makram-el-shagi-and-gregor-von-schweinitz/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gvschweinitz.org/publication_types/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gvschweinitz.org/publication/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gvschweinitz.org/publication-type/4/</loc>
     <lastmod>2020-08-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://gvschweinitz.org/authors/</loc>
-    <lastmod>2020-08-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gvschweinitz.org/author/christiane-baumeister-and-gregor-von-schweinitz/</loc>
-    <lastmod>2020-08-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gvschweinitz.org/</loc>
     <lastmod>2020-08-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,22 +73,7 @@
   </url>
   
   <url>
-    <loc>https://gvschweinitz.org/publication_types/</loc>
-    <lastmod>2020-08-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gvschweinitz.org/publication/</loc>
-    <lastmod>2020-08-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gvschweinitz.org/publication-type/3/</loc>
-    <lastmod>2020-08-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gvschweinitz.org/author/makram-el-shagi-and-gregor-von-schweinitz/</loc>
     <lastmod>2020-08-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,11 +93,6 @@
   </url>
   
   <url>
-    <loc>https://gvschweinitz.org/publication-type/2/</loc>
-    <lastmod>2020-07-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://gvschweinitz.org/author/gregor-von-schweinitz-lena-tonzer-and-manuel-buchholz/</loc>
     <lastmod>2020-07-31T00:00:00+00:00</lastmod>
   </url>
@@ -95,11 +100,6 @@
   <url>
     <loc>https://gvschweinitz.org/publication/swisserfloor_intrevfin/</loc>
     <lastmod>2020-07-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gvschweinitz.org/publication/fiscalfragility_jimf/</loc>
-    <lastmod>2019-12-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>

@@ -5,12 +5,20 @@
     <link>https://gvschweinitz.org/</link>
       <atom:link href="https://gvschweinitz.org/index.xml" rel="self" type="application/rss+xml" />
     <description>Gregor von Schweinitz</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gvschweinitz.org/images/icon_hu0d8d1ec397c09509224655023435de71_27805_512x512_fill_lanczos_center_2.png</url>
       <title>Gregor von Schweinitz</title>
       <link>https://gvschweinitz.org/</link>
     </image>
+    
+    <item>
+      <title>Fiscal policy and fiscal fragility: Empirical evidence from the OECD</title>
+      <link>https://gvschweinitz.org/publication/fiscalfragility_jimf/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://gvschweinitz.org/publication/fiscalfragility_jimf/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Houses as assets</title>
@@ -57,14 +65,6 @@
       <link>https://gvschweinitz.org/publication/swisserfloor_intrevfin/</link>
       <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://gvschweinitz.org/publication/swisserfloor_intrevfin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fiscal policy and fiscal fragility: Empirical evidence from the OECD</title>
-      <link>https://gvschweinitz.org/publication/fiscalfragility_jimf/</link>
-      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://gvschweinitz.org/publication/fiscalfragility_jimf/</guid>
       <description></description>
     </item>
     
