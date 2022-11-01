@@ -1,215 +1,129 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://gvschweinitz.org/publication-type/4/</loc>
-    <lastmod>2021-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gvschweinitz.org/authors/</loc>
-    <lastmod>2021-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gvschweinitz.org/author/christiane-baumeister-and-gregor-von-schweinitz/</loc>
-    <lastmod>2021-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gvschweinitz.org/</loc>
-    <lastmod>2021-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gvschweinitz.org/publication/cjsb-gsz_creditdemandandsupply/</loc>
-    <lastmod>2021-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gvschweinitz.org/publication_types/</loc>
-    <lastmod>2021-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://gvschweinitz.org/publication/</loc>
-    <lastmod>2021-11-26T00:00:00+00:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://gvschweinitz.org/publication-type/2/</loc>
-    <lastmod>2021-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gvschweinitz.org/authors/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gvschweinitz.org/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://gvschweinitz.org/author/makram-el-shagi-and-gregor-von-schweinitz/</loc>
-    <lastmod>2021-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gvschweinitz.org/publication_types/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gvschweinitz.org/publication/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://gvschweinitz.org/publication/mei-gsz_whytheykeepmissing_sjpe/</loc>
-    <lastmod>2021-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gvschweinitz.org/publication-type/4/</loc>
+    <lastmod>2021-01-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://gvschweinitz.org/author/annika-camehl-and-gregor-von-schweinitz/</loc>
     <lastmod>2021-01-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gvschweinitz.org/publication/ac-gsz_mpshocks-internationaltransmission/</loc>
     <lastmod>2021-01-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gvschweinitz.org/publication/mei-gsz_fiscalfragility_jimf/</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gvschweinitz.org/publication-type/3/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gvschweinitz.org/author/joao-carlos-claudio-and-gregor-von-schweinitz/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gvschweinitz.org/publication/jcc-gsz_technologynews/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://gvschweinitz.org/author/christiane-baumeister-and-gregor-von-schweinitz/</loc>
+    <lastmod>2020-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gvschweinitz.org/publication/cjsb-gsz_creditdemandandsupply/</loc>
+    <lastmod>2020-08-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://gvschweinitz.org/author/ruben-staffa-and-gregor-von-schweinitz/</loc>
     <lastmod>2020-08-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gvschweinitz.org/publication/rsa-gsz_fiscalnewsfinancialmarkets/</loc>
     <lastmod>2020-08-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gvschweinitz.org/author/gregor-von-schweinitz-lena-tonzer-and-manuel-buchholz/</loc>
     <lastmod>2020-07-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gvschweinitz.org/publication/mbz-ltr-gsz_swissshock_intrevfin/</loc>
     <lastmod>2020-07-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gvschweinitz.org/publication/jb-sl-gsz_machinelearningews_jfs/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gvschweinitz.org/author/johannes-beutel-sophia-list-and-gregor-von-schweinitz/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gvschweinitz.org/author/jesus-crespo-cuaresma-katharina-wendt-and-gregor-von-schweinitz/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gvschweinitz.org/publication/jc-gsz-kw_reserverequirementsgrowth_jom/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gvschweinitz.org/publication/ps-gsz_optimizingpolicymakerslossfunctions_md/</loc>
     <lastmod>2019-02-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gvschweinitz.org/author/peter-sarlin-and-gregor-von-schweinitz/</loc>
     <lastmod>2019-02-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gvschweinitz.org/publication/mei-gsz_jointdynamics_jbf/</loc>
     <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gvschweinitz.org/publication/mei-gsz_qualvar_japplecon/</loc>
     <lastmod>2016-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gvschweinitz.org/author/makram-el-shagi-axel-lindner-and-gregor-von-schweinitz/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gvschweinitz.org/publication/mei-alr_gszreermisalignment_rie/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gvschweinitz.org/publication/mei-gsz_diablo3_compecon/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gvschweinitz.org/publication/mei-gsz_riskandreturn_el/</loc>
     <lastmod>2015-02-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gvschweinitz.org/publication/gsz_flightpatterns/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gvschweinitz.org/author/gregor-von-schweinitz/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gvschweinitz.org/author/makram-el-shagi-tobias-knedlik-and-gregor-von-schweinitz/</loc>
     <lastmod>2013-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gvschweinitz.org/publication/mei-tkk-gsz_significancesignalsapproach_jimf/</loc>
     <lastmod>2013-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gvschweinitz.org/publication/tkk-gsz_macroimbalances_jcms/</loc>
     <lastmod>2012-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gvschweinitz.org/author/tobias-knedlik-and-gregor-von-schweinitz/</loc>
     <lastmod>2012-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gvschweinitz.org/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gvschweinitz.org/author/gregor-von-schweinitz/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gvschweinitz.org/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gvschweinitz.org/talk/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://gvschweinitz.org/tags/</loc>
   </url>
-  
 </urlset>
