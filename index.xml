@@ -5,12 +5,28 @@
     <link>https://gvschweinitz.org/</link>
       <atom:link href="https://gvschweinitz.org/index.xml" rel="self" type="application/rss+xml" />
     <description>Gregor von Schweinitz</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gvschweinitz.org/images/icon_hu0d8d1ec397c09509224655023435de71_27805_512x512_fill_lanczos_center_3.png</url>
       <title>Gregor von Schweinitz</title>
       <link>https://gvschweinitz.org/</link>
     </image>
+    
+    <item>
+      <title>International Monetary Policy Transmission</title>
+      <link>https://gvschweinitz.org/publication/ac-gsz_mpshocks-internationaltransmission/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://gvschweinitz.org/publication/ac-gsz_mpshocks-internationaltransmission/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the International Dissemination of Technology News</title>
+      <link>https://gvschweinitz.org/publication/jcc-gsz_technologynews/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://gvschweinitz.org/publication/jcc-gsz_technologynews/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Why they keep missing: An empirical investigation of sovereign bond ratings and their timing</title>
@@ -21,26 +37,10 @@
     </item>
     
     <item>
-      <title>International Monetary Policy Transmission</title>
-      <link>https://gvschweinitz.org/publication/ac-gsz_mpshocks-internationaltransmission/</link>
-      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://gvschweinitz.org/publication/ac-gsz_mpshocks-internationaltransmission/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Fiscal policy and fiscal fragility: Empirical evidence from the OECD</title>
       <link>https://gvschweinitz.org/publication/mei-gsz_fiscalfragility_jimf/</link>
       <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://gvschweinitz.org/publication/mei-gsz_fiscalfragility_jimf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the International Dissemination of Technology News</title>
-      <link>https://gvschweinitz.org/publication/jcc-gsz_technologynews/</link>
-      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://gvschweinitz.org/publication/jcc-gsz_technologynews/</guid>
       <description></description>
     </item>
     
