@@ -5,7 +5,7 @@
     <link>https://gvschweinitz.org/publication/</link>
       <atom:link href="https://gvschweinitz.org/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gvschweinitz.org/images/icon_hu0d8d1ec397c09509224655023435de71_27805_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Fiscal and Monetary Policy in Interaction with the Bond Market: A Bayesian Structural VAR</title>
-      <link>https://gvschweinitz.org/publication/rsa-gsz_fiscalnewsfinancialmarkets/</link>
-      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://gvschweinitz.org/publication/rsa-gsz_fiscalnewsfinancialmarkets/</guid>
+      <title>How do credit supply and demand influence business cycle dynamics?</title>
+      <link>https://gvschweinitz.org/publication/gsz_creditdemandandsupply/</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://gvschweinitz.org/publication/gsz_creditdemandandsupply/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>International Monetary Policy Transmission</title>
+      <title>What explains international interest rate co-movement?</title>
       <link>https://gvschweinitz.org/publication/ac-gsz_mpshocks-internationaltransmission/</link>
-      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://gvschweinitz.org/publication/ac-gsz_mpshocks-internationaltransmission/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fiscal and Monetary Policy in Interaction with the Bond Market: A Bayesian Structural VAR</title>
+      <link>https://gvschweinitz.org/publication/rsa-gsz_fiscalnewsfinancialmarkets/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://gvschweinitz.org/publication/rsa-gsz_fiscalnewsfinancialmarkets/</guid>
       <description></description>
     </item>
     
@@ -49,14 +57,6 @@
       <link>https://gvschweinitz.org/publication/mei-gsz_fiscalfragility_jimf/</link>
       <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://gvschweinitz.org/publication/mei-gsz_fiscalfragility_jimf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How do credit supply and demand influence business cycle dynamics?</title>
-      <link>https://gvschweinitz.org/publication/cjsb-gsz_creditdemandandsupply/</link>
-      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://gvschweinitz.org/publication/cjsb-gsz_creditdemandandsupply/</guid>
       <description></description>
     </item>
     
