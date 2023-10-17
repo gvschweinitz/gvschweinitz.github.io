@@ -5,7 +5,7 @@
     <link>https://gvschweinitz.org/publication-type/4/</link>
       <atom:link href="https://gvschweinitz.org/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
     <description>4</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gvschweinitz.org/images/icon_hu0d8d1ec397c09509224655023435de71_27805_512x512_fill_lanczos_center_3.png</url>
       <title>4</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>How do credit supply and demand influence business cycle dynamics?</title>
+      <title>Fiscal Policy under the Eyes of Wary Bondholders</title>
+      <link>https://gvschweinitz.org/publication/rsa-gsz_fiscalnewsfinancialmarkets/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://gvschweinitz.org/publication/rsa-gsz_fiscalnewsfinancialmarkets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The importance of credit demand for business cycle dynamics</title>
       <link>https://gvschweinitz.org/publication/gsz_creditdemandandsupply/</link>
-      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://gvschweinitz.org/publication/gsz_creditdemandandsupply/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Fiscal and Monetary Policy in Interaction with the Bond Market: A Bayesian Structural VAR</title>
-      <link>https://gvschweinitz.org/publication/rsa-gsz_fiscalnewsfinancialmarkets/</link>
-      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://gvschweinitz.org/publication/rsa-gsz_fiscalnewsfinancialmarkets/</guid>
+      <title>What explains international interest rate co-movement?</title>
+      <link>https://gvschweinitz.org/publication/ac-gsz_mpshocks-internationaltransmission/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://gvschweinitz.org/publication/ac-gsz_mpshocks-internationaltransmission/</guid>
       <description></description>
     </item>
     
