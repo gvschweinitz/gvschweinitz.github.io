@@ -5,7 +5,7 @@
     <link>https://gvschweinitz.org/publication/</link>
       <atom:link href="https://gvschweinitz.org/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 18 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gvschweinitz.org/images/icon_hu0d8d1ec397c09509224655023435de71_27805_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,26 +13,26 @@
     </image>
     
     <item>
-      <title>The importance of credit demand for business cycle dynamics</title>
-      <link>https://gvschweinitz.org/publication/gsz_creditdemandandsupply/</link>
-      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://gvschweinitz.org/publication/gsz_creditdemandandsupply/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fiscal Policy under the Eyes of Wary Bondholders</title>
-      <link>https://gvschweinitz.org/publication/rsa-gsz_fiscalpolicy-warybondholders/</link>
-      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://gvschweinitz.org/publication/rsa-gsz_fiscalpolicy-warybondholders/</guid>
+      <title>The Reception of Fiscal News on Financial Markets: Evidence from News Tickers</title>
+      <link>https://gvschweinitz.org/publication/rsa-gsz_fiscalnewsfinancialmarkets/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://gvschweinitz.org/publication/rsa-gsz_fiscalnewsfinancialmarkets/</guid>
       <description></description>
     </item>
     
     <item>
       <title>What explains international interest rate co-movement?</title>
       <link>https://gvschweinitz.org/publication/ac-gsz_mpshocks-internationaltransmission/</link>
-      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://gvschweinitz.org/publication/ac-gsz_mpshocks-internationaltransmission/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How do credit supply and demand influence business cycle dynamics?</title>
+      <link>https://gvschweinitz.org/publication/gsz_creditdemandandsupply/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://gvschweinitz.org/publication/gsz_creditdemandandsupply/</guid>
       <description></description>
     </item>
     
@@ -53,18 +53,18 @@
     </item>
     
     <item>
-      <title>Monetary policy through exchange rate pegs: The removal of the Swiss franc-Euro floor and stock price reactions</title>
-      <link>https://gvschweinitz.org/publication/mbz-ltr-gsz_swissshock_intrevfin/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://gvschweinitz.org/publication/mbz-ltr-gsz_swissshock_intrevfin/</guid>
+      <title>On the International Dissemination of Technology News</title>
+      <link>https://gvschweinitz.org/publication/jcc-gsz_technologynews/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://gvschweinitz.org/publication/jcc-gsz_technologynews/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>On the International Dissemination of Technology News</title>
-      <link>https://gvschweinitz.org/publication/jcc-gsz_technologynews/</link>
-      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://gvschweinitz.org/publication/jcc-gsz_technologynews/</guid>
+      <title>Monetary policy through exchange rate pegs: The removal of the Swiss franc-Euro floor and stock price reactions</title>
+      <link>https://gvschweinitz.org/publication/mbz-ltr-gsz_swissshock_intrevfin/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://gvschweinitz.org/publication/mbz-ltr-gsz_swissshock_intrevfin/</guid>
       <description></description>
     </item>
     
@@ -110,9 +110,9 @@
     
     <item>
       <title>Real Effective Exchange Rate Misalignment in the Euro Area: A Counterfactual Analysis</title>
-      <link>https://gvschweinitz.org/publication/mei-alr_gszreermisalignment_rie/</link>
+      <link>https://gvschweinitz.org/publication/mei-alr_gsz_reermisalignment_rie/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://gvschweinitz.org/publication/mei-alr_gszreermisalignment_rie/</guid>
+      <guid>https://gvschweinitz.org/publication/mei-alr_gsz_reermisalignment_rie/</guid>
       <description></description>
     </item>
     
