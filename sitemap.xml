@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gvschweinitz.org/publication-type/4/</loc>
-    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+    <loc>https://gvschweinitz.org/publication-type/2/</loc>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gvschweinitz.org/author/annika-camehl-and-gregor-von-schweinitz/</loc>
-    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gvschweinitz.org/authors/</loc>
-    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gvschweinitz.org/</loc>
-    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gvschweinitz.org/publication_types/</loc>
-    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gvschweinitz.org/publication/</loc>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gvschweinitz.org/publication/ac-gsz_mpshocks-internationaltransmission/</loc>
+    <lastmod>2025-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://gvschweinitz.org/publication-type/4/</loc>
     <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gvschweinitz.org/author/ruben-staffa-and-gregor-von-schweinitz/</loc>
@@ -26,17 +32,11 @@
     <loc>https://gvschweinitz.org/publication/rsa-gsz_fiscalnewsfinancialmarkets/</loc>
     <lastmod>2024-11-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://gvschweinitz.org/publication/ac-gsz_mpshocks-internationaltransmission/</loc>
-    <lastmod>2024-11-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://gvschweinitz.org/author/gregor-von-schweinitz/</loc>
     <lastmod>2024-10-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gvschweinitz.org/publication/gsz_creditdemandandsupply/</loc>
     <lastmod>2024-10-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://gvschweinitz.org/publication-type/2/</loc>
-    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://gvschweinitz.org/author/makram-el-shagi-and-gregor-von-schweinitz/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
