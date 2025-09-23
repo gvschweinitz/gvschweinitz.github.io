@@ -1,16 +1,144 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Gregor von Schweinitz</title>
+    <title>Authors on Gregor von Schweinitz</title>
     <link>https://gvschweinitz.org/authors/</link>
-      <atom:link href="https://gvschweinitz.org/authors/index.xml" rel="self" type="application/rss+xml" />
-    <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://gvschweinitz.org/images/icon_hu0d8d1ec397c09509224655023435de71_27805_512x512_fill_lanczos_center_3.png</url>
-      <title>Authors</title>
-      <link>https://gvschweinitz.org/authors/</link>
-    </image>
+    <description>Recent content in Authors on Gregor von Schweinitz</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Sep 2025 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://gvschweinitz.org/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://gvschweinitz.org/authors/admin/</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://gvschweinitz.org/authors/admin/</guid>
+      <description>&lt;p&gt;Welcome! I am an Associate Professor in Economics at &lt;a href=&#34;https://www.uni-corvinus.hu/main-page/about-the-university/institutes/institute-of-economics/?lang=en&#34;&gt;&lt;em&gt;Corvinus University&lt;/em&gt;&lt;/a&gt; since September 2024. I am also affiliated with the &lt;a href=&#34;https://www.iwh-halle.de/en/&#34;&gt;&lt;em&gt;Halle Institute for Economic Research (IWH)&lt;/em&gt;&lt;/a&gt; as a research professor.&lt;/p&gt;
+&lt;p&gt;Previously, I have been working as an Assistant Professor for Quantitative Macroeconomics at &lt;a href=&#34;https://www.wifa.uni-leipzig.de/en&#34;&gt;&lt;em&gt;Leipzig University&lt;/em&gt;&lt;/a&gt; and as head of the research group “Volatility, Growth and Financial Crises” at the &lt;a href=&#34;https://www.iwh-halle.de/en/&#34;&gt;&lt;em&gt;Halle Institute for Economic Research (IWH)&lt;/em&gt;&lt;/a&gt;. For shorter periods of time, I was also an interim professor for Applied Macroeconomics at the &lt;a href=&#34;https://www.wsf.uni-rostock.de/en/&#34;&gt;&lt;em&gt;University of Rostock&lt;/em&gt;&lt;/a&gt;, a guest researcher at the &lt;a href=&#34;https://www.bundesbank.de/en&#34;&gt;&lt;em&gt;Deutsche Bundesbank&lt;/em&gt;&lt;/a&gt; and a lecturer at the &lt;a href=&#34;https://www.jurawiwi.uni-halle.de/?lang=en&#34;&gt;&lt;em&gt;Martin Luther University Halle-Wittenberg&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My research interest lie on macroeconomic consequences of financial crises. My research spans three broader topics. First, my work concerns the empirical interaction between financial markets and macroeconomic outcomes. In particular, I investigate the importance of credit demand and supply fluctuations for aggregate fluctuations, and the role of sovereign debt limitations (in the form of sovereign ratings or sovereign bond demand) on fiscal policy and macroeconomic outcomes. The second strand of my research concerns the implementation of models to produce timely warnings of impending crises. The third strand focuses on the combination of macroeconomic and microeconomic datasets for structural macroeconomic analysis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Annika Camehl</title>
+      <link>https://gvschweinitz.org/authors/annika-camehl/</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://gvschweinitz.org/authors/annika-camehl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruben Staffa</title>
+      <link>https://gvschweinitz.org/authors/ruben-staffa/</link>
+      <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://gvschweinitz.org/authors/ruben-staffa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Makram El-Shagi</title>
+      <link>https://gvschweinitz.org/authors/makram-el-shagi/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://gvschweinitz.org/authors/makram-el-shagi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joao Carlos Claudio</title>
+      <link>https://gvschweinitz.org/authors/joao-carlos-claudio/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gvschweinitz.org/authors/joao-carlos-claudio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lena Tonzer</title>
+      <link>https://gvschweinitz.org/authors/lena-tonzer/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gvschweinitz.org/authors/lena-tonzer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manuel Buchholz</title>
+      <link>https://gvschweinitz.org/authors/manuel-buchholz/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://gvschweinitz.org/authors/manuel-buchholz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Johannes Beutel</title>
+      <link>https://gvschweinitz.org/authors/johannes-beutel/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gvschweinitz.org/authors/johannes-beutel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sophia List</title>
+      <link>https://gvschweinitz.org/authors/sophia-list/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gvschweinitz.org/authors/sophia-list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jesus Crespo-Cuaresma</title>
+      <link>https://gvschweinitz.org/authors/jesus-crespo-cuaresma/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gvschweinitz.org/authors/jesus-crespo-cuaresma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Katharina Wendt</title>
+      <link>https://gvschweinitz.org/authors/katharina-wendt/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gvschweinitz.org/authors/katharina-wendt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Sarlin</title>
+      <link>https://gvschweinitz.org/authors/peter-sarlin/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gvschweinitz.org/authors/peter-sarlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Axel Lindner</title>
+      <link>https://gvschweinitz.org/authors/axel-lindner/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://gvschweinitz.org/authors/axel-lindner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tobias Knedlik</title>
+      <link>https://gvschweinitz.org/authors/tobias-knedlik/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://gvschweinitz.org/authors/tobias-knedlik/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

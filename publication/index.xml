@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Gregor von Schweinitz</title>
+    <title>Publications on Gregor von Schweinitz</title>
     <link>https://gvschweinitz.org/publication/</link>
-      <atom:link href="https://gvschweinitz.org/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://gvschweinitz.org/images/icon_hu0d8d1ec397c09509224655023435de71_27805_512x512_fill_lanczos_center_3.png</url>
-      <title>Publications</title>
-      <link>https://gvschweinitz.org/publication/</link>
-    </image>
+    <description>Recent content in Publications on Gregor von Schweinitz</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Sep 2025 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://gvschweinitz.org/publication/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>What explains international interest rate co-movement?</title>
       <link>https://gvschweinitz.org/publication/ac-gsz_mpshocks-internationaltransmission/</link>
-      <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      
       <guid>https://gvschweinitz.org/publication/ac-gsz_mpshocks-internationaltransmission/</guid>
       <description></description>
     </item>
@@ -24,6 +24,7 @@
       <title>The Reception of Fiscal News on Financial Markets: Evidence from News Tickers</title>
       <link>https://gvschweinitz.org/publication/rsa-gsz_fiscalnewsfinancialmarkets/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://gvschweinitz.org/publication/rsa-gsz_fiscalnewsfinancialmarkets/</guid>
       <description></description>
     </item>
@@ -32,6 +33,7 @@
       <title>How do credit supply and demand influence business cycle dynamics?</title>
       <link>https://gvschweinitz.org/publication/gsz_creditdemandandsupply/</link>
       <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+      
       <guid>https://gvschweinitz.org/publication/gsz_creditdemandandsupply/</guid>
       <description></description>
     </item>
@@ -40,6 +42,7 @@
       <title>Why they keep missing: An empirical investigation of sovereign bond ratings and their timing</title>
       <link>https://gvschweinitz.org/publication/mei-gsz_whytheykeepmissing_sjpe/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://gvschweinitz.org/publication/mei-gsz_whytheykeepmissing_sjpe/</guid>
       <description></description>
     </item>
@@ -48,6 +51,7 @@
       <title>Fiscal policy and fiscal fragility: Empirical evidence from the OECD</title>
       <link>https://gvschweinitz.org/publication/mei-gsz_fiscalfragility_jimf/</link>
       <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://gvschweinitz.org/publication/mei-gsz_fiscalfragility_jimf/</guid>
       <description></description>
     </item>
@@ -56,6 +60,7 @@
       <title>On the International Dissemination of Technology News</title>
       <link>https://gvschweinitz.org/publication/jcc-gsz_technologynews/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://gvschweinitz.org/publication/jcc-gsz_technologynews/</guid>
       <description></description>
     </item>
@@ -64,6 +69,7 @@
       <title>Monetary policy through exchange rate pegs: The removal of the Swiss franc-Euro floor and stock price reactions</title>
       <link>https://gvschweinitz.org/publication/mbz-ltr-gsz_swissshock_intrevfin/</link>
       <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://gvschweinitz.org/publication/mbz-ltr-gsz_swissshock_intrevfin/</guid>
       <description></description>
     </item>
@@ -72,6 +78,7 @@
       <title>Does machine learning help us predict banking crises?</title>
       <link>https://gvschweinitz.org/publication/jb-sl-gsz_machinelearningews_jfs/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
       <guid>https://gvschweinitz.org/publication/jb-sl-gsz_machinelearningews_jfs/</guid>
       <description></description>
     </item>
@@ -80,6 +87,7 @@
       <title>On the empirics of reserve requirements and economic growth</title>
       <link>https://gvschweinitz.org/publication/jc-gsz-kw_reserverequirementsgrowth_jom/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
       <guid>https://gvschweinitz.org/publication/jc-gsz-kw_reserverequirementsgrowth_jom/</guid>
       <description></description>
     </item>
@@ -88,6 +96,7 @@
       <title>Optimizing Policymakers&#39; Loss Function in Crisis Prediction: Before, Within or After?</title>
       <link>https://gvschweinitz.org/publication/ps-gsz_optimizingpolicymakerslossfunctions_md/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      
       <guid>https://gvschweinitz.org/publication/ps-gsz_optimizingpolicymakerslossfunctions_md/</guid>
       <description></description>
     </item>
@@ -96,6 +105,7 @@
       <title>The Joint Dynamics of Sovereign Ratings and Government Bond Yields</title>
       <link>https://gvschweinitz.org/publication/mei-gsz_jointdynamics_jbf/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://gvschweinitz.org/publication/mei-gsz_jointdynamics_jbf/</guid>
       <description></description>
     </item>
@@ -104,6 +114,7 @@
       <title>Qual VAR Revisited: Good Forecast, Bad Story</title>
       <link>https://gvschweinitz.org/publication/mei-gsz_qualvar_japplecon/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
       <guid>https://gvschweinitz.org/publication/mei-gsz_qualvar_japplecon/</guid>
       <description></description>
     </item>
@@ -112,6 +123,7 @@
       <title>Real Effective Exchange Rate Misalignment in the Euro Area: A Counterfactual Analysis</title>
       <link>https://gvschweinitz.org/publication/mei-alr_gsz_reermisalignment_rie/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
       <guid>https://gvschweinitz.org/publication/mei-alr_gsz_reermisalignment_rie/</guid>
       <description></description>
     </item>
@@ -120,6 +132,7 @@
       <title>The Diablo 3 Economy: An Agent Based Approach</title>
       <link>https://gvschweinitz.org/publication/mei-gsz_diablo3_compecon/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
       <guid>https://gvschweinitz.org/publication/mei-gsz_diablo3_compecon/</guid>
       <description></description>
     </item>
@@ -128,6 +141,7 @@
       <title>Risk and Return - Is there an Unholy Cycle of Ratings and Yields?</title>
       <link>https://gvschweinitz.org/publication/mei-gsz_riskandreturn_el/</link>
       <pubDate>Sat, 14 Feb 2015 00:00:00 +0000</pubDate>
+      
       <guid>https://gvschweinitz.org/publication/mei-gsz_riskandreturn_el/</guid>
       <description></description>
     </item>
@@ -136,6 +150,7 @@
       <title>Flight Patterns and Yields of European Government Bonds</title>
       <link>https://gvschweinitz.org/publication/gsz_flightpatterns/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
       <guid>https://gvschweinitz.org/publication/gsz_flightpatterns/</guid>
       <description></description>
     </item>
@@ -144,6 +159,7 @@
       <title>Predicting financial crises: The (statistical) significance of the signals approach</title>
       <link>https://gvschweinitz.org/publication/mei-tkk-gsz_significancesignalsapproach_jimf/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      
       <guid>https://gvschweinitz.org/publication/mei-tkk-gsz_significancesignalsapproach_jimf/</guid>
       <description></description>
     </item>
@@ -152,6 +168,7 @@
       <title>Macroeconomic Imbalances as Indicators for Debt Crises in Europe</title>
       <link>https://gvschweinitz.org/publication/tkk-gsz_macroimbalances_jcms/</link>
       <pubDate>Wed, 22 Aug 2012 00:00:00 +0000</pubDate>
+      
       <guid>https://gvschweinitz.org/publication/tkk-gsz_macroimbalances_jcms/</guid>
       <description></description>
     </item>

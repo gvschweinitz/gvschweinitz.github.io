@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories | Gregor von Schweinitz</title>
+    <title>Categories on Gregor von Schweinitz</title>
     <link>https://gvschweinitz.org/categories/</link>
-      <atom:link href="https://gvschweinitz.org/categories/index.xml" rel="self" type="application/rss+xml" />
-    <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
-    <image>
-      <url>https://gvschweinitz.org/images/icon_hu0d8d1ec397c09509224655023435de71_27805_512x512_fill_lanczos_center_3.png</url>
-      <title>Categories</title>
-      <link>https://gvschweinitz.org/categories/</link>
-    </image>
+    <description>Recent content in Categories on Gregor von Schweinitz</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="https://gvschweinitz.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>
